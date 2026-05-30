@@ -1,6 +1,6 @@
 ## FPGA Car Avoidance Game
 
-# Overview
+### Overview
 
 高専在学中に開発した障害物回避ゲームです。
 
